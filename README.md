@@ -15,7 +15,7 @@ Reporting and visualizing test results and metrics.
 
 
 [Group 3 Members]
--Belal Wael Nasser 
+-Belal Wael Nasr ------> [Manual] 10 Test Cases & 9 issues / [Automation] Page of View Products & Test of All test cases related to View Product list .
 -Nourhan Ayman Sharaf Aldin -------> [Manual] 15 Test Cases & 5 Issues / [Automation] 5 for Login/logout  AND 5 for Add to Cart [pages--->login/cart/inventory] + [ Tests ---> login/cart]
 -Noureen Alaa Hady
 -Abdullah mahmoud Kamel
